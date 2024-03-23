@@ -9,3 +9,4 @@ plugins:
 
 nav:
   - "index.md"
+  - Greatest common divisor of strings: "greatest_common_divisor_of_strings.md"
